@@ -76,5 +76,7 @@ def main():
     outfile = './' + targetLang + '/' + filename
 
     translate(infile, outfile)
+    translate(infile, outfile)
+    translate(infile, outfile)
 
 main()
